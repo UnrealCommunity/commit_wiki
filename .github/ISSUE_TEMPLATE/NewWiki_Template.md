@@ -29,6 +29,13 @@ copyright:
 	history: 
 	license: CC BY-NC-SA 4.0
 	backupAddr:
-<!-- wiki正文 ->
-
-Wiki正文，请按照Markdowny语法编写。
+<!-- 贡献者信息 -->
+name: 
+avatar:
+site: 
+github_id: 
+email: 
+zhihu: 
+wechat_image: 
+<!-- wiki正文 -->
+Wiki正文，请按照Markdown语法编写。

@@ -1,4 +1,4 @@
-提交新的Wiki词条需要在[UnrealCommunity/commit_wiki](https://github.com/UnrealCommunity/commit_wiki)中创建一个issue，Wiki格式已创建模版，在issues页面选择“创建新的Wiki内容”即可。
+提交新的Wiki词条需要在[UnrealCommunity/commit_wiki](https://github.com/UnrealCommunity/commit_wiki)中创建一个issue，Wiki格式已创建模版，在issues页面选择“提交新的Wiki内容”即可。
 ![](https://img.imzlp.com/imgs/zlp/picgo/2021/20210705003349.png)
 
 如这篇内容：[Profiling for UE](https://ue5wiki.com/wiki/24066/)

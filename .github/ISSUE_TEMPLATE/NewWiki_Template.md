@@ -31,11 +31,11 @@ copyright:
 	backupAddr:
 <!-- 贡献者信息 -->
 name: 
-avatar:
-site: 
+avatar_image:
+site_addr: 
 github_id: 
 email: 
-zhihu: 
+zhihu_addr: 
 wechat_image: 
 <!-- wiki正文 -->
 Wiki正文，请按照Markdown语法编写。

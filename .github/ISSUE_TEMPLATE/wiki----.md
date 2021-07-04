@@ -1,13 +1,11 @@
 ---
-name: Wiki内容标题
+name: 提交新的wiki内容
 about: 请按照格式编写和提交Wiki此条。
-title: NewWiki
-labels: ''
+title: Wiki内容标题
+labels: 'NewWiki'
 assignees: ''
-
 ---
 
----
 title: Wiki内容标题
 categories:
   - 分类
@@ -31,5 +29,6 @@ copyright:
 	history: 
 	license: CC BY-NC-SA 4.0
 	backupAddr:
----
+<!-- wiki正文 ->
+
 Wiki正文，请按照Markdowny语法编写。

@@ -13,13 +13,16 @@ abbrlink: 34184
 tags:
   - 标签
 toc: true
-version: 引擎版本
-author: 作者名字
-authorlink: 作者链接
+ue_version: 引擎版本
 date: 2021-07-03 22:36:17
-updated:
-mathjax: false
-comments: true
+author: 
+  name: 
+  site_addr: 
+  avatar_image:
+  github_id: 
+  zhihu_addr: 
+  email: 
+  wechat_image:
 postQR: 
 	enable: false
 	image: 
@@ -29,13 +32,6 @@ copyright:
 	history: 
 	license: CC BY-NC-SA 4.0
 	backupAddr:
-<!-- 贡献者信息 -->
-name: 
-avatar_image:
-site_addr: 
-github_id: 
-email: 
-zhihu_addr: 
-wechat_image: 
 <!-- wiki正文 -->
+
 Wiki正文，请按照Markdown语法编写。

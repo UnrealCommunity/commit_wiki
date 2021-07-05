@@ -7,14 +7,26 @@
 ---
 title: Profiling for UE
 abbrlink: 24066
+date: 2021-06-29 22:32:01
 toc: true
-version: UE4.25
-author: lipengzha
-authorlink: https://imzlp.com
+tag:
+ - Profiling
+ - Android
+ - Unreal Insight
+ - UnrealFrontEnd
+ue_version: UE4.25
+author: 
+  name: lipengzha
+  site_addr: https://imzlp.com
+  avatar_image:
+  github_id: hxhb
+  zhihu_addr: 
+  email: hi@imzlp.com
+  wechat_image:
 postQR:
-  enable: true
-  image: https://img.imzlp.com/imgs/zlp/picgo/2021/20210702150750.png
-  info: 微信扫描二维码，关注我的公众号。
+  enable: false
+  image:
+  info: 
 copyright:
     enable: true
     history: true
@@ -22,16 +34,4 @@ copyright:
     backupAddr:
 ---
 ```
-同时需要填写贡献者信息：
-
-```markdown
-name:lipengzha
-site_addr: https://imzlp.com
-github_id:hxhb
-email:hi@imzlp.com
-avatar_image:https://img.imzlp.com/imgs/zlp/picgo/2021/avatar.png
-zhihu_addr:https://www.zhihu.com/people/imzlp
-wechat_image:https://imzlp.com/images/wechat-qrcode-offical.webp
-```
-如果不指定`avatar_image`图片链接，则会默认获取github账户头像。
-
+注意需同时填写贡献者信息(author)，如果不指定`avatar_image`图片链接，则会默认获取github账户头像。

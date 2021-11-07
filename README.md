@@ -1,4 +1,4 @@
-提交新的Wiki词条需要在[UnrealCommunity/commit_wiki](https://github.com/UnrealCommunity/commit_wiki)中创建一个issue，Wiki格式已创建模版，在issues页面选择“提交新的Wiki内容”即可。
+提交新的Wiki词条需要在[UnrealCommunity/commit_wiki](https://github.com/UnrealCommunity/commit_wiki)中创建一个issue，Wiki格式已创建模版，在issues页面选择“**提交新的外部文章**”或“**提交新的Wiki内容**”，选择其中之一即可。
 
 ### 链接投稿
 
